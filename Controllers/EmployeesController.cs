@@ -21,7 +21,7 @@ namespace JWTToken.Controllers
         [HttpPost]
         public string AddUser(Users user)
         {
-            return "user added" + user.Username;
+            return "user added" + user.Username;vbvbcvbvb
         }
     }
 }
